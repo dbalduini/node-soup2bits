@@ -1,0 +1,17 @@
+{
+  "name": "pubsub",
+  "version": "0.0.0",
+  "description": "node.js pub sub server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Balduini <dbalduini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.2",
+    "express": "^3.0.0",
+    "redis": "^2.3.0",
+    "underscore": "^1.6.0"
+  }
+}
